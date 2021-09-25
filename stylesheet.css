@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(129, 109, 85);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+div {
+    width: 160px;
+    border: 5px solid rgb(82, 10, 141);
+    padding: 0%;
+}
+#screen {
+    background-color: blue;
+    font-family: monospace;
+    color: white;
+    margin: 0;
+    padding: 2px;
+    text-align: left;
+    font-style: italic;
+}
+#keyBoard {
+    width: 160px;
+    margin: 0;
+    padding: 4px;
+    border:0;
+    background-color:cornsilk;
+    text-align: center;
+}
+td:hover {
+    background-color: black;
+    color: white;
+    cursor: default;
+}
+#calc {
+    margin: 0%;
+    padding: 0%;
+}
